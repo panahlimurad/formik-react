@@ -1,0 +1,19 @@
+.main {
+    background-color: #444552;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnRegister {
+    display: none;
+    width: 250px;
+    height: 50px;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #a09f9f91;
+}
